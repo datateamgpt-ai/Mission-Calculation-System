@@ -1,0 +1,9 @@
+Snapshot Detail Dialog screenshot (2026-03-04 16:35):
+- Dialog title: ประมาณการ ม.ค. 2569
+- Subtitle: คณะบริหารธุรกิจ — บันทึกเมื่อ 4 มีนาคม 2569 เวลา 16:33
+- Summary cards: ค่าสอนรวม 150,000 บาท, เบิกได้ 30 หน่วยกิต, อาจารย์ 10 คน
+- Note: ข้อมูลเบื้องต้น
+- Teacher details expanded showing 2 teachers grouped by rate:
+  - กลุ่ม 700 บาท: อ.ทดสอบ 1 (พันธกิจประจำ 12, พันธกิจพิเศษ 6, สอนจริง 18, วิชา 3)
+  - กลุ่ม 800 บาท: อ.ทดสอบ 2 (พันธกิจประจำ 15, พันธกิจพิเศษ 9, สอนจริง 24, วิชา 4)
+- UI looks clean and well-organized

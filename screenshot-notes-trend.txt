@@ -1,0 +1,18 @@
+Trend Chart Page Screenshot Notes (2026-03-04):
+- Page title "แนวโน้มค่าสอน" with TrendingUp icon - correct
+- Navbar shows "แนวโน้ม" tab highlighted in navy - correct
+- Filter dropdown "ทุกคณะ" visible - correct
+- 4 summary stat cards showing:
+  - ค่าสอนรวม (ล่าสุด): 150,000 บาท
+  - เบิกได้ (ล่าสุด): 30 นก.
+  - จำนวนอาจารย์ (ล่าสุด): 10 คน
+  - จำนวนรายการ: 6 รายการ
+- Tab bar: ภาพรวม | ค่าสอนรวม | หน่วยกิตเบิกได้ | จำนวนอาจารย์
+- Line chart visible with "แนวโน้มภาพรวม" title
+- Chart shows data points with X axis "2569-01" labels
+- Data is flat (all same values) because test data is identical - this is expected
+- Legend shows: ค่าสอนรวม (บาท), เบิกได้ (นก.), จำนวนอาจารย์
+- Data table visible below chart with 6 rows
+- "ดูประวัติคำนวณ" button links back to history page
+- Overall UI looks clean and professional with Academic Warmth theme
+- No TS errors, 0 errors in compilation

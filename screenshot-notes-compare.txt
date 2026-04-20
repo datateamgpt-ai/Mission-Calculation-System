@@ -1,0 +1,8 @@
+CompareSnapshotsPage screenshots (2026-03-04 16:39):
+- Page working correctly after hooks fix
+- Header shows A (navy) and B (amber) badges with snapshot labels
+- Summary table: ประมาณการค่าสอน 150,000 both, เบิกได้ 30, สอนจริง 45, อาจารย์ 10
+- Diff column shows — (dash) for equal values
+- Teacher comparison table shows อ.ทดสอบ 1 (rate 700) and อ.ทดสอบ 2 (rate 800)
+- Both snapshots have same data so diffs are all zero (expected for test data)
+- Back button at bottom works

@@ -1,0 +1,9 @@
+Calculation History Page screenshot (2026-03-04 16:34):
+- Page title: ประวัติการคำนวณ with subtitle about viewing saved calculations
+- Search bar and faculty filter dropdown visible
+- Two snapshot entries visible: "ประมาณการ ม.ค. 2569" for คณะบริหารธุรกิจ
+- Each entry shows: ค่าสอน 150,000 บาท, เบิกได้ 30 หน่วยกิต, อาจารย์ 10, คำเตือน 2
+- Each has "ดูรายละเอียด" button and delete button
+- Checkboxes for selecting snapshots to compare
+- Navbar shows "ประวัติคำนวณ" tab highlighted in navy
+- Data from earlier test save is showing correctly
